@@ -1,0 +1,10 @@
+title       = "yy"
+baseURL     = "https://yy-cli.tamnd.com/"
+description = "YY (YY直播) live streaming from the terminal"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/yy-cli"
